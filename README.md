@@ -34,7 +34,7 @@ The Codespaces environment will:
 
 ### Latest Version from "main" branch:
 
-* [main](https://gitpod.io/#https://github.com/alysson-oliveira/ERAMIA-RS-2025)
+* [main](https://gitpod.io/#https://github.com/thalesgmartins/ERAMIA-RS-2025)
 
 ---
 
